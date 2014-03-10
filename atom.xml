@@ -3,7 +3,7 @@
 	<title>Miss Harding - Your Personal Stylist</title>
 	<link href="http://missharding.co.uk/atom.xml" rel="self"/>
 	<link href="http://missharding.co.uk"/>
-	<updated>2014-03-10T10:09:11.386Z</updated>
+	<updated>2014-03-10T10:20:32.349Z</updated>
 	<id>http://missharding.co.uk</id>
 	<author>
 		<name>Miss Harding</name>
@@ -45,8 +45,8 @@
 		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
 		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
 		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
-		&lt;script src=&quot;//use.edgefonts.net/duru-sans;league-gothic.js&quot;&gt;&lt;/script&gt;
-		
+		&lt;script src=&quot;http://use.edgefonts.net/duru-sans;league-gothic.js&quot;&gt;&lt;/script&gt;
+
 
 	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
 	&lt;!--[if lt IE 9]&gt;
@@ -55,7 +55,7 @@
 
 	&lt;!-- Styles --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
-&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;
+&lt;link  rel=&quot;stylesheet&quot; href=&quot;styles/site.css&quot; /&gt;
 
 &lt;/head&gt;
 &lt;body&gt;
@@ -117,7 +117,7 @@
 		&lt;footer&gt;
 			&lt;!-- p class=&quot;pull-left&quot;&gt;&amp;copy; Miss Harding 2014&lt;/p&gt;
 			&lt;p class=&quot;pull-right&quot;&gt;
-				 Last updated at 2014-03-10T10:09:11.386Z
+				 Last updated at 2014-03-10T10:20:32.349Z
 			&lt;/p --&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -163,8 +163,8 @@
 		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
 		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
 		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
-		&lt;script src=&quot;//use.edgefonts.net/duru-sans;league-gothic.js&quot;&gt;&lt;/script&gt;
-		
+		&lt;script src=&quot;http://use.edgefonts.net/duru-sans;league-gothic.js&quot;&gt;&lt;/script&gt;
+
 
 	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
 	&lt;!--[if lt IE 9]&gt;
@@ -173,7 +173,7 @@
 
 	&lt;!-- Styles --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
-&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;
+&lt;link  rel=&quot;stylesheet&quot; href=&quot;styles/site.css&quot; /&gt;
 
 &lt;/head&gt;
 &lt;body&gt;
@@ -235,7 +235,7 @@
 		&lt;footer&gt;
 			&lt;!-- p class=&quot;pull-left&quot;&gt;&amp;copy; Miss Harding 2014&lt;/p&gt;
 			&lt;p class=&quot;pull-right&quot;&gt;
-				 Last updated at 2014-03-10T10:09:11.386Z
+				 Last updated at 2014-03-10T10:20:32.349Z
 			&lt;/p --&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
